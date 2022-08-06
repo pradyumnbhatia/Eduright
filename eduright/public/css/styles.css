@@ -1,0 +1,15 @@
+.square{
+    Border-radius: 0px;
+}
+.jumbotron {
+    background-image: linear-gradient(to right,#007bff, #000);
+    color: #fff
+
+}
+
+.dropdown-menu.show.abc {
+    left: 95%;
+  }
+.pointer {
+  cursor: pointer;
+}
